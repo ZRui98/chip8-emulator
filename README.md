@@ -6,7 +6,7 @@ Runs from command line.
 implement sound
 
 #Resources
-Cowgod's Chip8 Technical Reference V1.0 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+Cowgod's Chip8 Technical Reference V1.0 http://devernay.free.fr/hacks/chip8/C8TECH10.HTM</br>
 Wikipedia article https://en.wikipedia.org/wiki/CHIP-8
 
 #Bugs
