@@ -2,16 +2,16 @@
 a chip8 emulator written in C++ using the SDL2 graphics library.
 Runs from command line.
 
-#Todo
+# Todo
 implement sound
 
-#Issues
+# Issues
 The ROM 15PUZZLE currently does not work for the 'F' key.
 
-#Resources
+# Resources
 Cowgod's Chip8 Technical Reference V1.0: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM  
 
 Wikipedia article: https://en.wikipedia.org/wiki/CHIP-8
 
-#Libraries
+# Libraries
 SDL: https://www.libsdl.org/
